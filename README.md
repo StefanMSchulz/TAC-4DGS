@@ -1,0 +1,1 @@
+We are currently preparing the Code to our paper "TAC-4DGS: Trajectory-Aware Compression for Rate-Distortion Optimized 4D Gaussian Splatting" (WACV 2027). Please check back soon!
